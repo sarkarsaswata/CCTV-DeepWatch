@@ -2,3 +2,4 @@
 notebooks/
 __pycache__/
 zones/*.json
+assets/models/yolo*.pt
