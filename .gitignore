@@ -1,3 +1,4 @@
 *.mp4
 notebooks/
 __pycache__/
+zones/*.json
